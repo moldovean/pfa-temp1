@@ -1,5 +1,10 @@
 # Temp1
 
+TODO:
+1. `npm install --save @angular/material @angular/cdk @angular/animations`
+2. add configs automatically `ng add @angular/material`
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 
 ## Development server
